@@ -7,6 +7,16 @@ It is designed as a **portfolio project** and follows **industry best practices*
 
 ---
 
+
+## 🏛️ Data Architecture
+
+The data architecture for this project follows the **Medallion Architecture** pattern, consisting of **Bronze**, **Silver**, and **Gold** layers.
+
+### High-Level Architecture
+![High Level Architecture](docs/data_architecture.png)
+
+
+
 ## 🚀 Project Requirements
 
 ### 🏗️ Building the Data Warehouse (Data Engineering)
