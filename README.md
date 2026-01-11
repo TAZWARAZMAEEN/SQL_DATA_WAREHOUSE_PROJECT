@@ -112,32 +112,6 @@ These insights help stakeholders track **key business metrics** and support **st
 
 ---
 
-## 📁 Repository Structure
-
-data-warehouse-project/
-│
-├── datasets/ # Raw datasets used for the project (ERP and CRM data)
-│
-├── docs/ # Project documentation and architecture details
-│ ├── etl.drawio # ETL techniques and workflow diagrams
-│ ├── data_architecture.drawio # Overall data warehouse architecture
-│ ├── data_catalog.md # Dataset catalog with field descriptions and metadata
-│ ├── data_flow.drawio # End-to-end data flow diagram
-│ ├── data_models.drawio # Star schema and data models
-│ └── naming-conventions.md # Naming standards for tables, columns, and files
-│
-├── scripts/ # SQL scripts for ETL and transformations
-│ ├── bronze/ # Raw data ingestion scripts
-│ ├── silver/ # Data cleansing and transformation scripts
-│ └── gold/ # Analytical and reporting models
-│
-├── tests/ # Test scripts and data quality checks
-│
-├── README.md # Project overview and documentation
-├── LICENSE # License information
-├── .gitignore # Files and directories ignored by Git
-└── requirements.txt # Project dependencies and requirements
-
 
 ## 🛡️ License
 
