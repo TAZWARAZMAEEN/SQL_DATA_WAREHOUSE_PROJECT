@@ -30,6 +30,14 @@ The data architecture for this project follows the **Medallion Architecture** pa
   - Derived columns  
   - Enrichment logic  
 
+## 🥇 Gold Layer
+- Contains **business-ready data**
+- Modeled using a **Star Schema**
+- Optimized for:
+  - Reporting  
+  - Dashboards  
+  - Analytics  
+  - Machine Learning  
 
 
 ## 🚀 Project Requirements
