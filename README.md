@@ -39,6 +39,7 @@ The data architecture for this project follows the **Medallion Architecture** pa
   - Analytics  
   - Machine Learning  
 
+---
 
 ## 🚀 Project Requirements
 
