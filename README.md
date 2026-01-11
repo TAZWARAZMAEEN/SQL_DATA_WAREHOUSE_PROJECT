@@ -15,6 +15,21 @@ The data architecture for this project follows the **Medallion Architecture** pa
 ### High-Level Architecture
 ![High Level Architecture](docs/data_architecture.png)
 
+---
+
+## 🥉 Bronze Layer
+- Stores **raw data** as-is from the source systems  
+- Data is ingested from **CSV files** into **SQL Server**
+- No transformations are applied
+
+## 🥈 Silver Layer
+- Performs **data cleansing**, **standardization**, and **normalization**
+- Prepares data for analytical use
+- Handles:
+  - Data quality fixes  
+  - Derived columns  
+  - Enrichment logic  
+
 
 
 ## 🚀 Project Requirements
