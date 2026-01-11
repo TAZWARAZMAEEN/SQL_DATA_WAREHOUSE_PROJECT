@@ -41,6 +41,33 @@ The data architecture for this project follows the **Medallion Architecture** pa
 
 ---
 
+## 📘 Project Overview
+
+This project demonstrates an end-to-end **Data Warehouse and Analytics solution** built using **Medallion Architecture (Bronze, Silver, Gold)**.
+
+It showcases hands-on experience in **data engineering**, **SQL development**, **ETL pipelines**, and **analytical data modeling**, following real-world industry practices.
+
+---
+
+### 🔧 What This Project Covers
+
+- **Data Architecture:** Modern data warehouse design using Bronze, Silver, and Gold layers  
+- **ETL Pipelines:** Data extraction, transformation, and loading from source systems  
+- **Data Modeling:** Star schema with fact and dimension tables  
+- **Analytics & Reporting:** SQL-based analytics for business insights  
+
+---
+
+### 🎯 Skills Demonstrated
+
+- SQL Development  
+- Data Engineering  
+- ETL Pipelines  
+- Data Warehousing  
+- Data Modeling  
+- Data Analytics
+
+---
 ## 🚀 Project Requirements
 
 ### 🏗️ Building the Data Warehouse (Data Engineering)
