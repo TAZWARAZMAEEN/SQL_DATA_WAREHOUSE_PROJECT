@@ -113,7 +113,7 @@ These insights help stakeholders track **key business metrics** and support **st
 ---
 
 
-## 🧩 📁 Repository Structure
+##  📁 Repository Structure
 
 
 ```
